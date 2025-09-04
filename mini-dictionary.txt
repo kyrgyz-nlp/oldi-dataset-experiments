@@ -1,0 +1,128 @@
+#	English	Kyrgyz	Topic
+1	Adaptive reuse	Адаптациялап кайра колдонуу	Architecture
+2	Altar	Алтарь	Architecture
+3	Ambulatory	Амбулаторий	Architecture
+4	Architectural style	Архитектуралык стиль	Architecture
+5	Architectural theory	Архитектура теориясы	Architecture
+6	Architecture	Архитектура	Architecture
+7	Art Nouveau	Ар-нуво	Architecture
+8	Avant-garde	Авангарддык	Architecture
+9	Bar-tracery	Чыбык таш-чийме	Architecture
+10	Tracery	Таш-чийме	Architecture
+11	Plate tracery	Табак таш-чийме	Architecture
+12	Baroque style	Барокко стили	Architecture
+13	Barrel vault	Цилиндрдик чатыр	Architecture
+14	Basilica	Базилика	Architecture
+15	Blind arcades	Туюк аркадалар	Architecture
+16	Bronze doors	Коло эшиктери	Architecture
+17	Buddhist architecture	Буддисттик архитектура	Architecture
+18	Buttress	Контрфорс	Architecture
+19	Byzantine architecture	Византия архитектурасы	Architecture
+20	Chaitya-griha (stupa hall)	Чайтья-гриха (ступа залы)	Architecture
+21	Choir	Хор	Architecture
+22	Classical forms	Классикалык формалар	Architecture
+23	Clustered column	Топтошкон мамы	Architecture
+24	Corinthian capital	Коринф капители	Architecture
+25	Crenellations	Майда тиштер	Architecture
+26	Crossing tower	Ортолук мунара	Architecture
+27	Deconstruction	Деконструкция	Architecture
+28	Digital Architecture	Санарип архитектура	Architecture
+29	Dome	Күмбөз	Architecture
+30	Drawbridge	Көтөрмө көпүрө	Architecture
+31	Elevation	Фасад	Architecture
+32	Empiricism	Эмпиризм	Architecture
+33	Environmental sustainability	Экологиялык туруктуулук	Architecture
+34	Fan-vaulted staircase	Желпүүр-күмбөздүү тепкич	Architecture
+35	Flamboyant style	Фламбоянт стили	Architecture
+36	Flèche	Флеш	Architecture
+37	Flying buttress	Аркбутан	Architecture
+38	Functionalism	Функционализм	Architecture
+39	Gable	Фронтон	Architecture
+40	Garden city movement	Шаар-бак кыймылы	Architecture
+41	Gargoyle	Гаргулья	Architecture
+42	Gothic architecture	Готикалык архитектура	Architecture
+43	Gothic Revival	Готикалык кайра жаралуу	Architecture
+44	High Gothic	Жогорку готика	Architecture
+45	High-rise superstructure	Бийик курулма	Architecture
+46	Hypostyle mosque	Гипостилдүү мечит	Architecture
+47	International style	Эл аралык стиль	Architecture
+48	Islamic architecture	Ислам архитектурасы	Architecture
+49	Iwan mosque	Айван мечити	Architecture
+50	Landscape architect	Ландшафт архитектору	Architecture
+51	Lancet window	Ланцет терезеси	Architecture
+52	LEED (Leadership in Energy and Environmental Design)	LEED (Энергетика жана экологиялык долбоорлоо боюнча лидерлик)	Architecture
+53	Loggia	Лоджия	Architecture
+54	Machicolations	Машикулдар	Architecture
+55	Mannerism	Маньеризм	Architecture
+56	Master mason	Чебер таш уста	Architecture
+57	Mihrab	Михраб	Architecture
+58	Minaret	Мунара	Architecture
+59	Modern architecture	Заманбап архитектура	Architecture
+60	Modernist	Модернист	Architecture
+61	Mosaic	Мозаика	Architecture
+62	Mullion	Ортолук	Architecture
+63	Nave	Неф	Architecture
+64	Neo-Gothic	Неоготика	Architecture
+65	Parametricism	Параметрицизм	Architecture
+66	Perpendicular style	Перпендикуляр стили	Architecture
+67	Phenomenology	Феноменология	Architecture
+68	Pinnacle	Чокуча	Architecture
+69	Pointed arch	Учтуу арка	Architecture
+70	Poststructuralism	Постструктурализм	Architecture
+71	Qibla wall	Кыбыла дубалы	Architecture
+72	Rationalism	Рационализм	Architecture
+73	Rayonnant Gothic	Нурдуу готика	Architecture
+74	Renaissance / Renaissance era	Ренессанс / Кайра жаралуу доору	Architecture
+75	Ribbed vault	Кабыргалуу тогошмо	Architecture
+76	Romanesque style	Роман стили	Architecture
+77	Rose window	Роза терезе	Architecture
+78	Sacred architecture	Сакралдык архитектура	Architecture
+79	Spanish mission style	Испандык миссионердик стиль	Architecture
+80	Spire	Шпиль	Architecture
+81	Stained glass	Витраж	Architecture
+82	Steel-frame construction	Болот каркастуу курулуш	Architecture
+83	Structuralism	Структурализм	Architecture
+84	Stupa	Ступа	Architecture
+85	Temple	Ибадаткана	Architecture
+86	Tierceron	Тьерсерон	Architecture
+87	Transept	Трансепт	Architecture
+88	Transom	Трансома	Architecture
+89	Triforium	Трифорий	Architecture
+90	Tympanum	Тимпан	Architecture
+91	Vernacular architecture	Элдик архитектура	Architecture
+92	Vienna Secession	Вена сецессиону	Architecture
+93	accuracy	кылдаттык	Math, computer science
+94	precision	тактык	Math, computer science
+95	crude birth rate	төрөлүүнүн жалпы коэффициенти	Demography
+96	crude death rate	өлүмдүн жалпы коэффициенти	Demography
+97	bonding	чапташтыруучу	Sociology
+98	bridging	көпүрө салуучу	Sociology
+99	background (of a person)	тек-жай	General
+100	group cohesion	топтун ынтымагы	Sociology
+101	aggregate demand	жыйынды сурам	Economics
+102	shoot system	өсүндү системасы	Biology
+103	fossils	фоссилиялар	Biology
+104	bias	ыктоо	General
+105	fixation	кадалуу	Biology
+106	improvement in fitness	ыңгайлашуунун жакшыруусу	Biology
+107	disruptive selection	дизруптивдик тандалуу	Biology
+108	sub-optimal	субоптималдуу	General
+109	viability selection	жашоого жөндөмдүүлүк тандалуусу 	Biology
+110	survival selection	аман калуу тандалуусу	Biology
+111	fecundity selection	тукумдуулук тандалуусу	Biology
+112	fertility selection	фертилдүүлүк тандалуусу	Biology
+113	reproductive selection	репродуктивдик тандалуу	Biology
+114	trait	белги	Biology
+115	common sense	жалпы элдик түшүнүк	General
+116	Thomas Aquinas	Томас Аквиналык	History, Philosophy
+117	extinction 	экстинкция	Astronomy
+118	Real number	Анык сан	Mathematics
+119	Additive identity	Аддитивдик бирдейлик	Mathematics
+120	Bézout's identity	Безунун бирдейлиги	Mathematics
+121	Friendly	Дос пейил	General
+122	self-aware	өзүн аңдап-билген	General
+123	setient	сезим-туюмдуу	General
+124	Typewriter	жазма машинка	General
+125	built-in	камтылган	IT
+126	the latter	соңку айтылган	General
+127	tangent point	жанашуу чекити	Maps
