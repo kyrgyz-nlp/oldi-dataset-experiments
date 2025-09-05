@@ -23,7 +23,7 @@ All experiments were conducted by fine-tuning pre-trained models on our 6,193 pa
 TODO: E.g.: [This directory contains the experiment for fine-tuning the mT5-base model. mT5 was pre-trained on a large multilingual corpus that includes Kyrgyz, making it a solid baseline for this task.]
 
 ### mBART-50 (`facebook/mbart-large-50`)
-TODO: E.g.: [The mBART-50 model was not pre-trained on Kyrgyz. For this experiment, we first expanded its tokenizer vocabulary with Kyrgyz tokens before proceeding with fine-tuning. This step is crucial for enabling the model to process and generate Kyrgyz text effectively.]
+The mBART-50 model was not pre-trained on Kyrgyz. For this experiment, we first expanded its tokenizer vocabulary with Kyrgyz tokens before proceeding with fine-tuning. This step is crucial for enabling the model to process and generate Kyrgyz text effectively. In the corresponding folder there are notebooks of fine-tuning (also there are thir copies without tensorboard outputs for proper rendering in the github's browser - with prefix "no_widgets") and json files with results for both directions (EN-KY) and for both datasets - flores+ and X-WMT.
 
 ### M2M100 (`facebook/m2m100_418M-base`)
 TODO: E.g.: [Similar to mBART, the M2M100 model does not include Kyrgyz in its original 100 languages. We performed vocabulary expansion for this model as well before fine-tuning, adapting it for the new language pair.]
