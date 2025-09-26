@@ -80,12 +80,13 @@ Our fine-tuned NLLB-200 model sets a new state-of-the-art on this benchmark, sig
 If you use our dataset or code in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{your-lastname-2025-kyrgyz,
+@inproceedings{jumashev_tillabaeva_etal-2025-oldi-kyrgyz,
     title     = "The Kyrgyz Seed Dataset Submission to the {WMT}25 Open Language Data Initiative Shared Task",
     authors    = "Murat Jumashev and Alina Tillabaeva and Aida Kasieva and Turgunbek Omurkanov and Akylai Musaeva and Meerim Emil kyzy and Gulaiym Chagataeva and Jonathan Washington",
     booktitle = "Proceedings of the Tenth Conference on Machine Translation ({WMT}25)",
     year      = "2025",
-    address   = "[Conference Location]",
+    address   = "Suzhou, China",
     publisher = "Association for Computational Linguistics",
     url       = "[Link to paper when available]",
 }
+```
